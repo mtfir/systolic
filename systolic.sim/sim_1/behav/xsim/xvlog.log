@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mtfir/Downloads/systolic/systolic.srcs/sources_1/new/pe.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pe
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mtfir/Downloads/systolic/systolic.srcs/sources_1/new/register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mtfir/Downloads/systolic/systolic.srcs/sources_1/new/systolic_6x6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module systolic_6x6
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mtfir/Downloads/systolic/systolic.srcs/sim_1/new/systolic_6x6_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module systolic_6x6_tb
